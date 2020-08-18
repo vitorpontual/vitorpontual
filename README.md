@@ -5,7 +5,7 @@
 
 Hello world! ✌️
 
-Me chamo Vitor Pontual, sou estudante do bootcamp LaunchBase da Rocketseat, atualmente conhecendo e usando teorias e boas práticas do mundo do desenvolvimento, buscando sempre aprender com os desafios propostos, para colocar em prática. 
+Me chamo Vitor Pontual, sou estudante do bootcamp LaunchBase da Rocketseat, iniciei na programação em 2019 com a linguagem Python, atualmente conhecendo e usando teorias e boas práticas do mundo do desenvolvimento, buscando sempre aprender com os desafios propostos, para colocar em prática. 
 
 - :question: Atualmente adquirindo os conhecimentos em HTML, JAVASCRIPT, CSS, NODE e seus frameworks, me preparando para ser um desenvolvedor júnior.
 - :collision: A disposição para oportunidades.
