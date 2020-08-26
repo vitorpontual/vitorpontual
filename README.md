@@ -9,6 +9,8 @@ Me chamo Vitor Pontual, sou estudante do bootcamp LaunchBase da Rocketseat, inic
 
 - :question: Atualmente adquirindo os conhecimentos em HTML, JAVASCRIPT, CSS, NODE e seus frameworks, me preparando para ser um desenvolvedor júnior.
 - :collision: A disposição para oportunidades.
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitorpontual)](https://github.com/vitorpontual/github-readme-stats)
 
 > :octocat:
