@@ -1,7 +1,7 @@
 
 ### Vitor Pontual
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-pontual/)](https://www.linkedin.com/in/vitor-pontual/)
-[![Gmail Badfe](https://img.shields.io/badge/-vitspontual@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vtispontual@gmail.com)](mailto:vtispontual@gmail.com)
+[![Apple Badfe](https://img.shields.io/badge/-vitspontual@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vtispontual@gmail.com)](mailto:vtispontual@gmail.com)
 
 Hello world! ✌️
 
