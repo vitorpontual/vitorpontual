@@ -1,7 +1,7 @@
 
 ### Vitor Pontual
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-pontual/)](https://www.linkedin.com/in/vitor-pontual/)
-[![Apple Badge](https://img.shields.io/badge/-vitorpguedes@me.com-c14438?style=flat-square&logo=Apple&logoColor=white&link=mailto:vitorpguedes@me.com)&color=808080](mailto:vitorpguedes@me.com)
+[![Apple Badge](https://img.shields.io/badge/-vitorpguedes@me.com-c14438?style=flat-square&logo=Apple&logoColor=white&color=808080&labelColor=000000&link=mailto:vitorpguedes@me.com)](mailto:vitorpguedes@me.com)
 
 Hello world! ✌️
 
